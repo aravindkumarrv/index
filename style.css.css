@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://burst.shopifycdn.com/photos/wrtiting-tools.jpg?width=1200&format=pjpg&exif=0&iptc=0);
+background-size: cover;
+}
+.diver{
+    align-items: center;
+    height: 200px;
+    width: 300px;
+    background-color: aliceblue;
+    padding: 50px 20px;
+    margin: auto;
+    border-radius: 10px;
+}
+h1{
+    color: rgba(0, 0, 0, 0.821);
+    margin-top:100px;
+}
+.sup{
+   margin-top: 10px;
+   margin-right: 30px;
+}
+.sub{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.hi{
+    padding-top: 20px;
+}
